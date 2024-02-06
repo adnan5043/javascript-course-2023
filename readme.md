@@ -15,4 +15,3 @@ So, In a nutshell, We can build whatever you want for almost every device i.e.
 2. Andriod Apps
 3. Desktops Apps via Electron
 
-And Much More. ☺️
